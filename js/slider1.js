@@ -50,5 +50,8 @@
         prevArrow: '<button id="next" type="button" class="btn btn-juliet"><i class="fa fa-angle-left" aria-hidden="true"></i>'
         //appendArrows: $('.my-arrow'),
         //prevArrow: '<button id="prev" type="button" class="btn btn-juliet"><i class="fa fa-angle-double-left" aria-hidden="true"></i></button>',
+        //prevArrow: '<button id="prev" type="button" class="btn btn-juliet"><i class="fa fa-angle-double-left" aria-hidden="true"></i></button>',
         //nextArrow: '<button id="next" type="button" class="btn btn-juliet"><i class="fa fa-angle-double-right" aria-hidden="true"></i></button>'
     });
+
+/* для бургер меню*/
