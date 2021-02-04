@@ -1066,7 +1066,7 @@ body {
         background-color: cadetblue;
         display: none;
         position: absolute;
-        top: 100%;
+        top: 120%;
         right: 0;
         border-radius: 8px;
     }
@@ -1174,6 +1174,11 @@ body {
         margin-left: -7px;
     }
 
+    .sl .slick-dots{
+        position: absolute;
+        bottom: -34px;
+        width: 92%;
+    }
 }
 @media screen and (max-width: 600px) {
     .block {
@@ -1192,6 +1197,7 @@ body {
 
         margin-top: 29px;
     }
+
 
 }
 @media screen and (max-width: 370px){
